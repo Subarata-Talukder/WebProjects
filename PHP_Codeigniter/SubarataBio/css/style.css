@@ -1,0 +1,18 @@
+/*Custom css for extra preference*/
+body{
+    margin: 0px;
+    padding: 0px;
+    display: block;
+    background: silver;
+}
+
+.wrapper{
+    background: white;
+    border: 2px solid #3fc7f7;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 15px auto;
+    padding: 15px 10px;
+}
