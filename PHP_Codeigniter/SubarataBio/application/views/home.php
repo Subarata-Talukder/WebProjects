@@ -11,19 +11,16 @@
         <div class="container wrapper">
 
             <div class = "row">
-
-                <div class = "col-md-12">
-                    <?php echo $header; ?>
-                </div>
+                <?php echo $header; ?>
             </div>
 
             <div class = "row">
 
-                <div class = "col-md-4">
+                <div class = "col-md-3">
                     <?php echo 'Left navigation'; ?>
                 </div>
 
-                <div class = "col-md-8">
+                <div class = "col-md-9">
                     <?php echo $view_contents; ?>
                 </div>
             </div>

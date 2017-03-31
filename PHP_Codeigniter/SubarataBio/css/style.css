@@ -16,3 +16,11 @@ body{
     margin: 15px auto;
     padding: 15px 10px;
 }
+
+.image_stretch {
+        background: url(images\logo\bio_img.jpg) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
